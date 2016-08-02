@@ -33,4 +33,4 @@ To control an RC Car, record each signal -- forward, reverse, left, right, forwa
 
 `python RCcontrol.py`
 
-which will open up a blank window. Click on the window. Now, the keys q, w, e, a, d, z, x, and c will control the RC car. 
+which will open up a blank window. Click on the window. Now, the keys Q, W, E, A, D, Z, X, and C will control the RC car. 
