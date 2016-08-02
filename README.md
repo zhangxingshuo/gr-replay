@@ -31,6 +31,6 @@ Open `replay.grc` and run the script. This will play your recorded signal.
 ## RC Control
 To control an RC Car, record each signal -- forward, reverse, left, right, forward-left, forward-right, reverse-left, and reverse-right. Alternatively, signals are provided which will work with a 49 MHz RC car. Run
 
-`python RCControl.py`
+`python RCcontrol.py`
 
 which will open up a blank window. Click on the window. Now, the keys q, w, e, a, d, z, x, and c will control the RC car. 
