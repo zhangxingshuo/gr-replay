@@ -15,6 +15,8 @@ which should install the Software Defined Radio (SDR) program GQRX and its depen
 
 which will install the osmocom drivers.
 
+If these steps do not work, see [this website](http://www.hackrf.net/2013/12/linux%E7%B3%BB%E7%BB%9F%E4%B8%8A%E6%90%AD%E5%BB%BAhackrf%E7%8E%AF%E5%A2%83/) for a troubleshooting guide.
+
 ### OS X
 With MacPorts installed, run
 
